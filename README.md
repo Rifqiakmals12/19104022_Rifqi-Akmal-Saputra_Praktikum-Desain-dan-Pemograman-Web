@@ -9,6 +9,7 @@
 
 
 ## Tugas Praktikum 2 (Membuat Website Portofolio Menggunakan HTML & CSS) 
-![image](https://user-images.githubusercontent.com/72428679/139165325-7351ac9b-a4d5-4db7-9498-bf9810b9be87.png)
+![image](https://user-images.githubusercontent.com/72428679/139165529-e860cbbf-e747-4174-a176-f780c43ac25f.png)
+
 
 
