@@ -4,4 +4,4 @@
 |--|--|--|
 | RIFQI AKMAL SAPUTRA  | 19104022 | 03 SE B
 
-http://rifqiakmals.000webhostapp.com/
+http://rifqiakmal.inyonghost.com/
